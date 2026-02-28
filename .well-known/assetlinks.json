@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tienda.mundo",
+    "sha256_cert_fingerprints": [
+      "2D:ED:3E:DC:E2:E9:7F:6A:37:E2:FF:5A:E9:33:10:3D:73:8A:97:F4:B2:A7:0B:EC:19:E6:D9:07:D7:DF:47:03",
+      "07:BE:F9:65:41:C0:1C:6E:B1:D3:10:82:B4:CC:43:49:19:77:54:67:23:2B:AD:2D:2C:DD:E8:70:1B:FD:DE:01"
+    ]
+  }
+}]
